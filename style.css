@@ -1,0 +1,41 @@
+
+h1,ul,li  {
+    display: inline-block;
+    margin: 10px;
+    background-color: black;
+
+   
+    
+}
+img {
+   width: 80px;
+}
+
+li {
+
+    list-style: none;
+    font-size: 20px;
+    color: white;
+}
+
+
+a {
+
+    text-decoration: none;
+    color: white;
+    
+}
+
+.sarlavha {
+    color: black;
+}
+h3 {
+    background-image: url(./QALAMPIRRASM.jpg);
+    background-repeat: no-repeat;
+    width: 500px;
+    height: 300px;
+}
+
+p {
+    font-size: 24px;
+}
